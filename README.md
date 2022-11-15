@@ -2,4 +2,4 @@
 - 💞️ I love python
 - 🌱 I’m currently studying Computer Engineering at the University of Informatics Sciences.
 - 👀 I’m interested in ML, script automation and web services
-- 📫 [Linkedin](www.linkedin.com/in/alexanderscpo)
+- 📫 [Linkedin](https://www.linkedin.com/in/alexanderscpo)
